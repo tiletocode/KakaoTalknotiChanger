@@ -1,0 +1,1 @@
+MsgBox "알림음이 리셋되었습니다.",64,"KakaoTalk Notification Changer"

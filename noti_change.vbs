@@ -1,0 +1,1 @@
+MsgBox "알림음이 변경되었습니다.",64,"KakaoTalk Notification Changer"
